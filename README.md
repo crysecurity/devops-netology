@@ -1,6 +1,6 @@
 # DevOps Netology
 
-<p>DevOps Homeworks in Netology course</p>
+<p>DevOps Homeworks in Netology course | Fix</p>
 
 ### Ignored files and directories
 - .idea (PyCharm settings directory)
